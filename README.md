@@ -49,6 +49,4 @@ Me chamo Moisés Carlos, tenho 18 anos e moro em Recife, Pernambuco. Atualmente,
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/moises-carlos/moises-carlos/output/snake.svg" alt="Snake animation" />
 
-###
