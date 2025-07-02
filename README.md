@@ -53,6 +53,6 @@ Me chamo Moisés Carlos, tenho 18 anos e moro em Recife, Pernambuco. Atualmente,
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-carlos&theme=dark&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-carlos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
