@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-Me chamo Moisés Carlos, tenho 18 anos e moro em Recife, Pernambuco. Atualmente, estou cursando Sistema para Internet na UNICAP (Universidade Católica de Pernambuco). Tenho grande interesse pela área de tecnologia, especialmente no desenvolvimento com Java, que é a minha principal linguagem de programação. Gosto de compartilhar meu aprendizado e evolução como desenvolvedor, contribuindo com a comunidade tech e criando soluções práticas através da programação.
+Me chamo Moisés Carlos emoro em Recife, Pernambuco. Atualmente, estou cursando Sistema para Internet na UNICAP (Universidade Católica de Pernambuco). Tenho grande interesse pela área de tecnologia, especialmente no desenvolvimento com Java, que é a minha principal linguagem de programação. Gosto de compartilhar meu aprendizado e evolução como desenvolvedor, contribuindo com a comunidade tech e criando soluções práticas através da programação.
 
 <div align="left">
   <a href="https://discord.com/users/354203229535600640" target="_blank">
