@@ -5,7 +5,7 @@ Sobre mim:
 
 Sou Moisés Carlos(Recife–PE), curso Sistemas para Internet na UNICAP. Tenho grande interesse pela área de tecnologia, com foco em desenvolvimento usando Java, minha principal linguagem. Atualmente, estou me dedicando a projetos práticos que envolvem integração de sistemas e desenvolvimento de aplicações web, buscando evoluir na arquitetura e boas práticas de software.
 
-## 🌐 Social:
+## Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_moisescarloss/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-carlos29/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moisescarlos664@gmail.com) 
 
 # 💻 Tecnologias:
