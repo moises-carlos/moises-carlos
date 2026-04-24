@@ -8,7 +8,7 @@ Busco resolver problemas reais através de tecnologia e estou constantemente apr
 
 ---
 
-# Tecnologias:
+### Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
