@@ -1,6 +1,6 @@
 # Moisés Carlos
 
-**`Back-end Developer | Java`**
+**`Back-end Developer`**
 
 Desenvolvedor back-end com foco em Java, com interesse em construir aplicações escaláveis e evoluir continuamente em design de software.
 Tenho experiência prática no desenvolvimento de aplicações web, APIs REST e integração de sistemas, aplicando boas práticas como código limpo e organização em camadas.
