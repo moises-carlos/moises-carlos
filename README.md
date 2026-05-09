@@ -6,10 +6,11 @@ Desenvolvedor back-end com foco em Java, com interesse em construir aplicações
 Tenho experiência prática no desenvolvimento de aplicações web, APIs REST e integração de sistemas, aplicando boas práticas como código limpo e organização em camadas.
 Busco resolver problemas reais através de tecnologia e estou constantemente aprimorando minhas habilidades em arquitetura de software e desenvolvimento back-end. 
 
-<img width="480" height="202" alt="Spider-Man GIF by Spider-Man Into The Spider-Verse" src="https://github.com/user-attachments/assets/a3a5de75-8df6-44b8-b838-932d1956e0fa" />
+<p align="center">
+  <img width="480" height="202" alt="Spider-Man GIF by Spider-Man Into The Spider-Verse" src="https://github.com/user-attachments/assets/a3a5de75-8df6-44b8-b838-932d1956e0fa" />
+</p>
 
-
----
+----
 
 ### Ferramentas & Tecnologias
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
